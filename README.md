@@ -9,6 +9,9 @@ terraform-aws-lambda-offline/
 ├── variables.tf
 ├── outputs.tf
 ├── lambda_function.py
+└── layer.zip
+    └── python/
+          └── <libraries>
 ├── .gitignore
 └── README.md
 
