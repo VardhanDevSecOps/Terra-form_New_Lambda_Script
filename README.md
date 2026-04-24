@@ -1,7 +1,7 @@
-zip lambda.zip lambda_function.py --> To zip the lamda script
+## zip lambda.zip lambda_function.py --> To zip the lamda script
 
 
-Folder Structure
+## Folder Structure
 
 terraform-aws-lambda-offline/
 │
