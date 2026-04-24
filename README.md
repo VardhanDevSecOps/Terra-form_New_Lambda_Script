@@ -18,7 +18,7 @@ terraform-aws-lambda-offline/
 
 
 
-# Terraform AWS Lambda (Offline Setup)
+# Terraform AWS Lambda
 
 This project creates an AWS Lambda function using Terraform without relying on internet templates.
 
