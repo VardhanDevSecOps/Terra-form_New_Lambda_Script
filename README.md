@@ -1,7 +1,7 @@
 zip lambda.zip lambda_function.py --> To zip the lamda script
 
 
-📁 Folder Structure
+Folder Structure
 
 terraform-aws-lambda-offline/
 │
@@ -22,13 +22,13 @@ terraform-aws-lambda-offline/
 
 This project creates an AWS Lambda function using Terraform without relying on internet templates.
 
-## 📁 Files
+## Files
 - main.tf → Core infrastructure
 - variables.tf → Configurable values
 - outputs.tf → Outputs
 - lambda_function.py → Lambda code
 
-## 🚀 Setup
+## Setup
 
 ### 1. Zip the Lambda
 zip lambda.zip lambda_function.py
@@ -42,9 +42,9 @@ terraform plan
 ### 4. Apply
 terraform apply
 
-## 🔐 Prerequisites
+## Prerequisites
 - AWS CLI configured (`aws configure`)
 - Terraform installed
 
-## 🌍 Region
+## Region
 Default: ap-south-1
