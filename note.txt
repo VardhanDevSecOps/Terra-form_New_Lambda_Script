@@ -1,0 +1,18 @@
+mkdir -p layer/python
+pip install requests -t layer/python
+
+cd layer
+zip -r ../layer.zip .
+cd ..
+
+-----------------------------------------------------------------------
+
+After updating layers use below commands
+
+pip install requests -t layer/python --upgrade
+
+cd layer
+zip -r ../layer.zip .
+cd ..
+
+terraform apply
